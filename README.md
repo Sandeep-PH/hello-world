@@ -1,2 +1,5 @@
-# hello-world
+
 my first repository.
+
+LEARNING GITHUB.
+:)
